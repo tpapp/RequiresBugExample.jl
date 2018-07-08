@@ -1,0 +1,6 @@
+name = "RequiresBugExample"
+uuid = "98985cf8-82ad-11e8-0b50-b5162ac041bb"
+version = "0.1.0"
+
+[deps]
+Requires = "ae029012-a4dd-5104-9daa-d747884805df"
